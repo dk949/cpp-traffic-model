@@ -1,0 +1,4 @@
+.ccls
+.clang-format
+*.o
+sim
